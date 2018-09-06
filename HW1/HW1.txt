@@ -1,0 +1,7 @@
+1) Write a computer program (MATLAB, Python, etc. of your choice) 
+to generate an nth order polynomial function p(x).  
+The program should take two parameters: 
+1) Domain of the function p(x) and 
+2) Roots of the polynomial function p(x).  In your program, also plot p(x).
+
+i.e. your program should be able to generate any nth order polynomial
